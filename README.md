@@ -5,7 +5,7 @@ Snap City is a first-person street photography game set in Snap City, a living p
 
 Cameras and film
 
-53 film cameras, from a disposable and a Holga to Leicas, Hasselblads, an XPan and a Polaroid SX-70, each looking like itself in your hands.
+53 film cameras, from a disposable and a Holga to Leicas, each looking like itself in your hands.
 51 lenses with their own character, from razor-sharp glass to the swirly Helios.
 26 film stocks with their own colour, grain and tolerance for mistakes, including Portra, Tri-X, CineStill (with red halos round lights), Velvia and Delta 3200.
 Formats from 35 mm and half-frame to 6×6, 6×7 and panoramic, each with its true frame shape.
