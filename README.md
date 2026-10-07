@@ -1,7 +1,7 @@
 # Snap-City
 A street photography simulator for raining days
 
-Contact Sheet is a first-person street photography game set in Snap City, a living procedural city of steep hills, fog and painted houses. You walk the streets with a real film camera, watch for the decisive moment, and build a body of work from what you catch.
+Snap City is a first-person street photography game set in Snap City, a living procedural city of steep hills, fog and painted houses. You walk the streets with a real film camera, watch for the decisive moment, and build a body of work from what you catch.
 
 Cameras and film
 
